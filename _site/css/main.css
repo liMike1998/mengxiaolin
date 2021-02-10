@@ -9,8 +9,6 @@
   
   .carousel-fade .carousel-inner .item {
       opacity: 0;
-      background-size: contain;
-      background-position: center center;
       -webkit-transition-property: opacity;
       -moz-transition-property: opacity;
       -ms-transition-property: opacity;
